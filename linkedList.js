@@ -97,9 +97,3 @@ class Node {
   }
 }
 let node1 = new Node(2);
-
-let list = new LinkedList();
-list.append(2);
-list.append(7);
-list.append(10);
-console.log(list.toString());
